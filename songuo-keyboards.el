@@ -24,6 +24,7 @@
 (define-key global-map "\C-x\C-u" 'undo) ;; C-x u == C-x C-u 
 (define-key global-map "\C-x\C-o" 'other-window) ;; C-x o == C-x C-o
 (global-set-key "\C-xl" 'goto-line)
+(define-key global-map "\C-c\C-d" 'c-hungry-delete-forward)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Other keymap defined examples
