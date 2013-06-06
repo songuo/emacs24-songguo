@@ -122,6 +122,7 @@
 
 (load-library "songuo-auto-complete")
 (load-library "songuo-java")
+(load-library "songuo-groovy")
 (load-library "songuo-python")
 (load-library "songuo-html")
 (load-library "songuo-yasnippet")
