@@ -20,8 +20,9 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(bsh-startup-timeout 2)
  '(custom-theme-load-path (quote (custom-theme-directory t "~/.emacs.d/songuo-themes/")))
- '(ecb-options-version "2.40") ; For compatible
+ '(ecb-options-version "2.40")
  '(inhibit-startup-screen t)
  '(menu-bar-mode nil)
  '(same-window-buffer-names (quote ("*mail*" "*inferior-lisp*" "*ielm*" "*scheme*")))
@@ -35,7 +36,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(font-lock-type-face ((t (:foreground "cyan"))))
- '(linum ((t (:inherit shadow :background "black"))) t))
+ '(linum ((t (:inherit shadow :background "black")))))
 
 
 ;; Set initial frame 
@@ -130,7 +131,6 @@
 (load-library "songuo-shell")
 (load-library "songuo-functions")
 (load-library "songuo-keyboards")
-
 ;; theme must be in custom-theme-load-path, which is a variable
 (load-theme 'songuo-emacs24 t)
 

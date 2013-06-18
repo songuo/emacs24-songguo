@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : Class
+#name : ClassMain
 # --
 /**
  * @author `user-full-name` (`user-mail-address`)
@@ -7,7 +7,9 @@
  */
 public class ${1:`(file-name-sans-extension (buffer-name))`} {
 
-  public $1 () {
+  public $1 () {}
+
+  public static void main(String[] args) {
     $0
   }
 }

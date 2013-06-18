@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : import java util package
+# --
+import java.util.${1:List};

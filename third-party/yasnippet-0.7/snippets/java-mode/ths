@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : throws Exception
+# --
+throws ${1:IOException} 

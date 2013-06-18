@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : whileiterator
+# --
+while(${1:it}.hasNext()) {
+  ${2:String} ${3:var} = $1.next();
+  $0
+}
