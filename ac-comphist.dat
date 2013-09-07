@@ -1,1476 +1,1660 @@
-((("SqlSession" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("factory" .
-   [0 0 0 1 0 0 0])
-  ("SqlSessionFactory" .
-   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Resouces" .
-   [0 0 0 0 0 0 1 0])
-  ("InputStream" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("Test" .
-   [1 0 0 0])
-  ("s" .
-   [1])
-  ("buildcodemap" .
-   [0 0 0 0 0 1 0 0 0 0 0 0])
-  ("is_first" .
-   [0 0 1 0 0 0 1 0])
-  ("urandom" .
-   [0 0 0 0 0 0 1])
-  ("b64encode" .
-   [0 0 0 0 1 0 0 0 0])
-  ("groovy" .
-   [1 0 0 0 0 0])
-  ("clazz" .
-   [1 0 0 0 0])
-  ("toggle-fullscreen" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("jinja_view" .
-   [0 0 1 0 1 0 0 0 0 0])
-  ("extract_excerpt" .
-   [0 0 0 0 1 3 0 0 0 0 0 0 0 0 0])
-  ("run_forever" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("Running" .
-   [0 0 0 1 0 0 0])
-  ("spawn" .
-   [0 0 0 1 0])
-  ("SIGQUIT" .
-   [0 0 0 0 1 0 0])
-  ("signal" .
-   [0 0 0 1 0 0])
-  ("sleep" .
-   [0 0 0 0 1])
-  ("gevent" .
-   [0 0 3 1 0 0])
-  ("image_src" .
-   [0 0 0 1 0 1 0 0 0])
-  ("del_dictkey" .
-   [0 0 0 0 6 0 0 0 0 1 0])
-  ("res2json" .
-   [0 0 0 0 2 0 0 0])
-  ("requests" .
-   [1 0 0 0 0 0 0 0])
-  ("urllib2" .
-   [0 0 0 1 0 0 0])
-  ("extract" .
-   [0 0 0 0 3 0 0])
-  ("select" .
-   [0 0 1 0 1 0])
-  ("hxs" .
-   [0 0 1])
-  ("HtmlXPathSelector" .
-   [0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("save2file" .
-   [0 0 1 0 0 0 0 0 0])
-  ("SgmlLinkExtractor" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("allowed_domains" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("CrawlSpider" .
-   [0 0 0 2 0 0 0 0 0 0 0])
-  ("ensure_ascii" .
-   [0 0 2 1 1 0 0 0 0 0 0 0])
-  ("enumerate" .
-   [0 0 1 0 0 0 0 0 0])
-  ("unsure_ascii" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("dumps" .
-   [0 0 1 0 0])
-  ("infodict" .
-   [0 0 0 0 0 1 0 0])
-  ("ordered" .
-   [1 0 1 1 0 0 0])
-  ("static_file" .
-   [0 0 0 2 0 0 1 0 0 0 0])
-  ("distance_from_origin" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("distributed" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("instance" .
-   [0 0 0 1 0 0 1 0])
-  ("__storage" .
-   [0 0 0 0 1 1 0 0 0])
-  ("ExternalStorage" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("attribute_name" .
-   [0 0 0 4 0 1 0 0 0 0 0 0 0 0])
-  ("__iter__" .
-   [0 0 0 0 0 1 0 0])
-  ("clear" .
-   [0 0 0 1 0])
-  ("remove" .
-   [0 0 0 0 1 0])
-  ("popitem" .
-   [0 0 1 0 0 0 0])
-  ("setdefault" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("__delitem__" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("KeyError" .
-   [0 0 0 2 0 0 0 0])
-  ("iterable" .
-   [0 0 0 0 1 0 0 0])
-  ("classmethod" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("__keys" .
-   [0 0 0 2 5 2])
-  ("__setitem__" .
-   [0 0 0 0 0 0 1 1 0 0 0])
-  ("update" .
-   [0 0 0 1 1 0])
-  ("isinstance" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("SortedList" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("kwargs" .
-   [0 0 5 0 0 0])
-  ("__init__" .
-   [0 0 0 1 0 2 1 0])
-  ("SortedDict" .
-   [0 0 7 10 0 1 0 0 0 0])
-  ("dictionary" .
-   [0 0 0 6 1 0 0 0 0 0])
-  ("pickle" .
-   [0 0 0 1 2 0])
-  ("NotFilenameError" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("__data" .
-   [0 0 0 1 3 0])
-  ("__background" .
-   [0 0 0 0 4 0 1 0 0 0 0 0])
-  ("CoordinateError" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
-  ("coordinate" .
-   [0 0 2 11 1 0 0 0 0 0])
-  ("__radius" .
-   [0 0 0 0 0 0 1 0])
-  ("radius" .
-   [0 0 1 1 1 0])
-  ("property" .
-   [0 0 1 3 0 0 0 0])
-  ("getAbsolutePath" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("dir" .
-   [1 0 0])
-  ("getName" .
-   [0 0 0 0 0 1 0])
-  ("item" .
-   [1 0 0 0])
-  ("DirFilter" .
-   [0 0 0 1 0 0 0 0 0])
-  ("su" .
-   [2 0])
-  ("html-helper-mode" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("testmod" .
-   [0 0 0 1 0 0 0])
-  ("doctest" .
-   [1 0 0 0 0 0 0])
-  ("doctes" .
-   [1 0 0 0 0 0])
-  ("__name__" .
-   [0 0 1 0 1 0 1 0])
-  ("TextUtil" .
-   [1 0 0 0 0 0 0 0])
-  ("stack" .
-   [0 0 0 1 1])
-  ("songuo-emacs24-theme" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  (":height" .
-   [0 0 0 0 0 1 0])
-  (":font" .
-   [1 0 0 0 0])
-  ("set-face-attribute" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("font-size: ..." .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("oblique" .
-   [1 0 0 0 0 0 0])
-  ("PI" .
-   [1 0])
-  ("dark" .
-   [1 0 0 0])
-  ("gray15" .
-   [1 0 0 0 0 0])
-  ("CancelledError" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("ValueError" .
-   [0 0 0 1 2 1 0 0 0 0])
-  ("maximum_length" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("minimum_length" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 0])
-  ("default" .
-   [1 0 0 0 1 0 0])
-  ("populate_information" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("information" .
-   [0 0 0 0 0 2 0 0 1 1 0])
-  ("today" .
-   [0 0 2 0 0])
-  ("saxutils" .
-   [0 0 0 1 0 0 0 0])
-  ("dateti" .
-   [1 0 0 0 0 0])
-  ("border" .
-   [2 0 0 0 0 0])
-  ("color-theme-songuo" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("val" .
-   [1 0 0])
-  ("region-beginning" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("fdfd" .
-   [1 0 0 0])
-  ("line-end-position" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("line-beginning-position" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("comment-or-uncomment-region" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("newline-and-indent" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("jde-mode-map" .
-   [0 0 0 0 0 0 0 0 0 0 1 0])
-  ("dict" .
-   [1 0 0 0])
-  ("jde-mode" .
-   [2 0 0 0 0 0 0 0])
-  ("add-hook" .
-   [1 0 0 0 0 0 0 0])
-  ("show-paren-mode" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("jde-abbrev-mode" .
-   [0 0 0 0 1 1 0 3 0 1 0 0 0 0 0])
-  ("sorted" .
-   [0 1 0 1 0 0])
-  ("words" .
-   [4 0 0 0 0])
-  ("strip" .
-   [4 0 0 1 0])
-  ("word" .
-   [9 0 0 0])
-  ("line" .
-   [1 0 0 0])
-  ("filename" .
-   [1 0 1 1 2 1 0 1])
-  ("string" .
-   [3 0 0 0 0 0])
-  ("File" .
-   [1 0 0 0])
-  ("String" .
-   [17 0 0 0 0 0])
-  ("data" .
-   [2 0 0 0])
-  ("tryf" .
-   [1 0 0 0])
-  ("bFile" .
-   [1 0 2 0 0])
-  ("BufferedInputStream" .
-   [0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("byte" .
-   [4 0 0 0])
-  ("main" .
-   [3 0 0 0])
-  ("jde-gen-define-abbrev-template" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("EOFException" .
-   [0 0 1 0 0 0 0 0 0 0 0 0])
-  ("ByteArrayInputStream" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("char" .
-   [2 0 0 0])
-  ("DataInputStream" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("theme_advanced_buttons2" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("theme_advanced_buttons1" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("plugins" .
-   [1 0 0 0 0 0 0])
-  ("indentation" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("300" .
-   [1 0 0])
-  ("height" .
-   [0 0 0 1 1 0])
-  ("758" .
-   [1 0 0])
-  ("width" .
-   [1 0 0 1 0])
-  ("dialog_type" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("skin" .
-   [1 0 0 0])
-  ("plugin" .
-   [1 0 0 0 0 0])
-  ("imageinfo" .
-   [0 0 0 1 0 0 0 0 1])
-  ("ImageInfo" .
-   [1 0 0 0 0 0 0 0 0])
-  ("songuo" .
-   [3 0 0 0 0 0])
-  ("image" .
-   [4 0 0 0 0])
-  ("ImageForm" .
-   [0 0 0 0 0 1 0 0 3])
-  ("d" .
-   [1])
-  ("myCustomFileBrowser" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("field_name" .
-   [0 0 1 0 0 0 0 0 0 0])
-  ("win" .
-   [1 0 0])
-  ("PROJECT_ROOT" .
-   [0 0 3 1 0 0 0 0 0 0 0 0])
-  ("RedirectView" .
-   [0 0 1 0 0 0 0 0 0 0 0 0])
-  ("as_view" .
-   [0 0 0 2 0 0 0])
-  ("next" .
-   [3 0 0 1])
-  ("need_login" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("login_required" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("r" .
-   [1])
-  ("color-theme-molokai" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("py-install-directory" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("py-shell-name" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("fci-rule-color" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("fci-rule-width" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("load-path" .
-   [0 0 0 0 0 0 2 1 2])
-  ("add-to-list" .
-   [0 0 0 0 1 1 0 0 0 0 3])
-  ("star" .
-   [3 0 0 0])
-  ("ordering" .
-   [0 0 0 0 0 1 0 0])
-  ("Meta" .
-   [0 0 1 0])
-  ("printf" .
-   [0 0 0 0 1 0])
-  ("urls" .
-   [2 0 0 0])
-  ("add_snippet" .
-   [0 0 0 1 1 0 0 0 0 0 0])
-  ("CategoryFeed" .
-   [1 0 0 0 0 0 0 0 0 2 0 0])
-  ("15" .
-   [1 0])
-  ("items" .
-   [1 0 0 0 0])
-  ("link" .
-   [1 0 0 0])
-  ("description" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("obj" .
+((("sql" .
    [7 0 0])
-  ("ObjectDoesNotExist" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("bits" .
-   [2 0 0 0])
-  ("len" .
+  ("getConn" .
+   [0 0 0 1 1 0 0])
+  ("DBConnection" .
+   [0 0 2 0 0 0 0 0 0 0 0 0])
+  ("conn" .
+   [11 0 0 0])
+  ("Connection" .
+   [0 0 0 0 2 0 0 0 0 0])
+  ("pageSize" .
+   [1 0 1 0 1 0 0 0])
+  ("put" .
    [2 0 0])
-  ("url" .
-   [12 0 0])
-  ("as" .
-   [1 0])
-  ("feed" .
-   [1 0 0 0])
-  ("LatestEntriesFeed" .
-   [1 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 0])
-  ("feeds" .
-   [6 0 0 0 0])
-  ("square-each" .
-   [0 0 0 0 0 0 2 0 0 0 0])
-  ("numbers-list" .
-   [0 0 0 0 0 0 0 0 3 0 1 0])
-  ("1-" .
-   [1 0])
-  ("triangle-recursively" .
-   [0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("Tag" .
-   [1 0 0])
-  ("TagField" .
-   [0 0 0 1 0 0 0 0])
-  ("tagging" .
-   [1 0 0 0 0 0 0])
-  ("category" .
-   [1 0 0 0 0 0 0 0])
-  ("entry_set" .
-   [1 0 0 0 0 0 0 0 0])
-  ("category_detail" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Category" .
-   [0 0 0 0 1 1 0 6])
-  ("LinkAdmin" .
-   [0 0 1 0 0 0 0 0 0])
-  ("Link" .
-   [3 0 0 2])
-  ("permalink" .
-   [0 0 0 1 0 0 0 0 0])
-  ("strftime" .
-   [0 0 0 0 3 0 0 0])
-  ("get_absolute_url" .
-   [0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 0])
-  ("entry_latext" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("entry_index" .
-   [4 0 0 0 0 0 0 0 0 0 0])
-  ("entry_day" .
-   [3 0 0 0 0 0 0 0 0])
-  ("entry_month" .
-   [3 0 0 0 0 0 0 0 0 0 1])
-  ("entry_year" .
-   [2 0 0 0 0 0 0 0 1 0])
-  ("entry_latest" .
-   [1 0 0 0 0 0 0 0 2 1 0 0])
-  ("copy" .
-   [2 0 0 0])
-  ("entry_all" .
-   [3 0 0 0 0 0 0 1 0])
-  ("entry_detail" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("entry_object_detail" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
-  ("date_based" .
-   [0 0 1 0 0 0 0 0 0 0])
-  ("entry_info_dict" .
-   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 2])
-  ("entry" .
-   [1 0 0 0 0])
-  ("date_stamp" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("date" .
-   [1 0 0 0])
-  ("pub_date" .
-   [0 0 0 0 0 0 1 9])
-  ("slug" .
-   [11 0 0 1])
-  ("day" .
-   [3 0 0])
-  ("time" .
-   [1 0 0 0])
-  ("Entry" .
-   [0 0 0 2 9])
-  ("weblog" .
-   [1 0 0 1 0 0])
-  ("setcar" .
-   [1 0 0 0 0 0])
-  ("animal" .
-   [5 0 0 6 1 1])
-  ("lion" .
-   [2 0 0 0])
-  ("anima" .
-   [0 0 0 0 2])
-  ("nthcdr" .
-   [1 0 0 0 0 0])
-  ("length" .
-   [3 0 0 1 2 0])
-  ("narrow-to-previous" .
-   [0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0])
-  ("Narrow" .
-   [1 0 0 1 0 0])
-  ("conf" .
-   [2 0 0 0])
-  ("current_site" .
-   [0 0 0 0 3 0 0 0 0 0 0 0])
-  ("Site" .
-   [1 0 0 0])
-  ("article_id" .
-   [0 0 0 0 0 0 0 0 0 1])
-  ("id" .
-   [1 0])
-  ("Article" .
-   [0 0 1 1 1 0 2])
-  ("GET" .
-   [2 0 0])
-  ("not" .
-   [3 0 0])
-  ("and" .
-   [3 0 0])
-  ("set_color" .
-   [0 0 0 1 1 0 0 0 0])
-  ("show_color" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("chapter14" .
-   [0 0 0 0 1 0 0 0 0])
-  ("exchange-point-and-mark" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("copy-lines" .
-   [0 0 0 0 0 0 0 1 1 0])
-  ("exchange-dot-and-mark" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("kill-ring-save" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("next-line" .
-   [0 0 0 0 0 0 0 0 1])
-  ("move-beginning-of-line" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("move-end-of-line" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("f8" .
-   [1 0])
-  ("add_domain" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("feedgenerator" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("Feed" .
-   [8 0 0 1])
-  ("response" .
-   [0 0 0 3 5 2 0 0])
-  ("author_list_plaintext" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("author_detail" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("books_by_publisher" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("get_object_or_404" .
-   [0 0 0 2 1 3 0 0 0 0 0 0 0 0 0 0 0])
-  ("extra_context" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("template_object_name" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
-  ("queryset" .
-   [0 0 1 1 1 0 0 1])
-  ("publisher" .
-   [1 0 0 0 0 0 0 0 0])
-  ("file" .
-   [4 0 0 4])
-  ("apress_books" .
-   [0 0 1 0 0 0 0 0 0 0 0 0])
-  ("book_info" .
-   [0 0 0 1 0 0 0 0 0])
-  ("object_list" .
-   [0 0 0 0 0 0 0 2 4 2 0])
-  ("get_books" .
-   [0 0 0 0 1 0 0 0 0])
-  ("all" .
-   [7 0 0])
-  ("publisher_info" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("list_detail" .
-   [0 0 0 1 0 4 1 0 0 0 2])
-  ("books" .
-   [0 0 1 0 0])
-  ("list" .
-   [13 0 0 1])
-  ("about_pages" .
-   [0 0 1 0 0 0 0 0 0 0 0])
-  ("view" .
+  ("path" .
    [3 0 0 0])
-  ("simple" .
-   [0 0 0 1 0 0])
-  ("generic" .
-   [0 0 0 1 1 0 3])
-  ("page" .
-   [3 0 0 0])
-  ("direct_to_template" .
-   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("patterns" .
-   [0 0 0 0 3 0 1 1])
-  ("urlpatterns" .
-   [0 0 0 0 3 3 0 0 0 0 0])
-  ("goto-char" .
-   [0 0 0 0 1 0 0 0 0])
-  ("nil" .
-   [15 0 0])
-  ("push-mark" .
-   [0 0 0 0 1 1 0 0 0])
-  ("zebra" .
-   [1 0 0 0 0])
-  ("fierce" .
-   [1 0 0 0 0 0])
-  ("type-of-animal" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("equal" .
-   [0 0 0 0 1])
-  ("if" .
-   [26 1])
-  ("e" .
-   [1])
-  ("var2" .
-   [1 0 0 0])
-  ("var1" .
-   [1 0 0 0])
-  ("let" .
-   [4 0 0])
-  ("nunion" .
-   [0 0 0 1 0 0])
-  ("interactive" .
-   [0 0 0 0 0 1 1 0 0 0 1])
-  ("multiply-by-seven" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("number" .
-   [5 0 0 0 2 0])
-  ("mult" .
-   [0 0 0 1])
-  ("MYSQL_HOME" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("export" .
-   [1 0 0 0 0 0])
-  ("Book" .
-   [4 0 2 2])
-  ("register" .
-   [1 0 0 2 3 1 0 1])
-  ("site" .
-   [3 0 2 0])
-  ("for" .
-   [15 0 0])
-  ("continue" .
-   [0 0 0 1 0 1 0 1])
-  ("title" .
-   [4 0 1 1 0])
-  ("last_name" .
-   [0 0 0 1 0 0 0 0 0])
-  ("lambda" .
-   [0 0 1 0 0 0])
-  ("first_name" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("__unicode__" .
-   [0 0 0 1 1 0 0 0 0 0 1])
-  ("name" .
-   [7 0 1 0])
-  ("self" .
-   [17 0 1 4])
-  ("point-max" .
-   [0 0 0 0 0 0 0 0 1])
-  ("point-min" .
-   [0 0 0 0 0 1 0 1 1])
-  ("point" .
-   [0 0 0 1 2])
-  ("buffer-size" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("current-buffer" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("switch-to-buffer" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("other-buffer" .
-   [0 0 0 3 0 0 0 0 0 0 0 0])
-  ("require" .
-   [0 0 0 1 4 2 1])
-  ("color-" .
-   [0 0 0 0 0 1])
-  ("highlight-" .
-   [1 0 0 0 0 0 0 0 0 1])
-  ("fill-column" .
-   [0 0 0 0 4 1 1 0 0 0 2])
-  ("setq-default" .
-   [0 0 0 0 0 0 0 2 0 0 0 1])
-  ("return" .
-   [11 0 9 20 32 11])
-  ("Auto" .
-   [0 0 0 1])
-  ("python-mode" .
-   [1 0 0 0 0 0 1 0 0 0 0])
-  ("cons" .
-   [6 0 0 1])
-  ("auto-mode-alist" .
-   [1 0 0 0 0 0 1 1 0 2 0 0 0 0 0])
-  ("setq" .
-   [33 0 0 5])
-  ("loadfile" .
-   [1 0 0 0 0 0 0 0])
-  ("IOException" .
-   [0 0 3 1 2 0 0 0 0 0 0])
-  ("java" .
-   [7 0 0 1])
-  ("import" .
-   [34 0 10 25 5 16])
-  ("println" .
-   [1 0 3 0 0 0 1])
-  ("out" .
-   [12 0 1])
-  ("System" .
-   [8 0 0 0 1 5])
-  ("info" .
-   [1 0 0 0])
-  ("from" .
-   [46 0 1 19])
-  ("Python" .
-   [2 0 0 0 0 0])
-  ("global-hl-line-mode" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("scroll-step" .
-   [0 0 0 1 0 0 0 0 0 0 0])
-  ("make-list" .
-   [0 0 0 0 0 0 1 0 0])
-  ("make-backup-files" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("version-control" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("backup-directory-alist" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("quote" .
-   [1 0 0 0 2])
-  ("line-number-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("column-number-mode" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("set-cursor-color" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("set-mouse-color" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("set-face-background" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("region-end" .
-   [0 0 0 0 0 0 0 1 0 0])
-  ("set-background-color" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("set-mark" .
-   [0 0 0 0 0 0 1 0])
-  ("set-foreground-color" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("hello" .
-   [1 0 0 0 1])
-  ("format" .
-   [0 0 0 5 0 3])
-  ("mysite" .
-   [1 0 1 2 1 1])
-  ("views" .
-   [22 0 1 0 4])
-  ("my_homepage_view" .
-   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("def" .
-   [41 0 0])
-  ("request" .
-   [4 0 9 19 6 4 21])
-  ("HttpResponse" .
-   [1 0 1 5 0 0 0 0 0 0 0 10])
-  ("test" .
-   [2 0 1 1])
-  ("html" .
-   [4 0 1 1])
-  ("datetime" .
-   [2 0 1 0 5 0 0 1])
-  ("now" .
-   [4 0 0])
-  ("current_datetime" .
-   [0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("two" .
-   [1 0 0])
-  ("hours_ahead" .
-   [0 0 0 2 0 0 0 0 0 0 0])
-  ("try" .
-   [5 0 2])
-  ("offset" .
-   [1 0 0 2 2 0])
-  ("int" .
-   [11 0 0])
-  ("except" .
-   [0 0 1 3 4 2])
-  ("raise" .
-   [1 0 0 0 3])
-  ("Http404" .
-   [0 0 0 0 0 2 0])
-  ("assert" .
-   [0 0 0 1 0 0])
-  ("django" .
-   [16 0 7 6 4 4])
-  ("open" .
-   [2 0 0 0])
-  ("Template" .
-   [0 0 0 4 0 0 0 5])
-  ("Context" .
-   [0 0 0 1 0 0 0])
-  ("template" .
-   [2 0 0 3 2 2 0 2])
-  ("get_template" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("render" .
-   [0 0 0 1 0 0])
-  ("render_to_response" .
-   [0 0 0 3 5 1 0 2 0 0 0 0 0 0 0 0 0 0])
-  ("current_datetime2" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("include" .
-   [2 0 0 0 3 0 0])
-  ("includetest" .
-   [0 0 0 2 0 0 0 0 0 0 0])
-  ("dt" .
+  ("BufferedReader" .
+   [0 0 1 0 1 0 0 0 0 0 0 0 0 0])
+  ("st" .
    [1 0])
-  ("linum-mode" .
-   [0 0 0 0 1 1 1 0 0 0])
-  ("concat" .
-   [0 0 0 0 0 2])
-  ("defun" .
-   [4 0 0 1 8])
-  ("substring" .
-   [1 0 0 0 0 0 0 0 1])
-  ("number-to-string" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("message" .
-   [0 0 0 0 0 0 13])
-  ("buffer-name" .
-   [0 0 0 0 0 0 0 1 1 0 1])
-  ("set" .
-   [9 0 0])
-  ("flowers" .
-   [0 0 0 0 2 0 0])
-  ("counter" .
-   [3 0 0 0 0 0 0])
-  ("buffer-file-name" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("setf" .
-   [1 0 0 0])
-  ("class" .
-   [23 0 0 7 1])
-  ("object" .
-   [1 0 0 0 1 19])
-  ("models" .
-   [8 0 0 1 4 19])
-  ("CharField" .
-   [0 0 1 2 4 0 0 0 0])
-  ("max_length" .
-   [0 0 0 0 2 0 0 0 0 5])
-  ("Model" .
-   [0 0 0 3 3])
-  ("Author" .
-   [0 0 2 2 4 1])
-  ("Publisher" .
-   [0 0 5 4 2 0 0 0 2])
-  ("ManyToManyField" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("contrib" .
-   [0 0 1 0 0 4 4])
-  ("admin" .
-   [10 0 0 4 2])
-  ("autodiscover" .
-   [0 0 0 1 1 0 0 0 0 0 0 0])
-  ("blank" .
-   [0 0 0 1 0])
-  ("True" .
-   [3 0 1 1])
-  ("AuthorAdmin" .
-   [0 0 0 0 0 0 0 1 0 0 0])
-  ("ModelAdmin" .
-   [0 0 0 1 0 0 1 1 0 0])
-  ("list_display" .
-   [0 0 0 0 0 0 1 0 0 0 0 0])
-  ("BookAdmin" .
-   [0 0 0 1 0 0 0 0 0])
-  ("shortcuts" .
-   [0 0 0 1 0 1 0 0 1])
-  ("None" .
-   [2 0 3 1])
-  ("getattr" .
-   [0 0 0 0 0 0 1])
-  ("settings" .
-   [0 0 0 1 4 0 0 0])
-  ("in" .
-   [17 0])
-  ("template_dirs" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("template_zipfiles" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("zipfile" .
-   [0 0 0 0 1 0 0])
-  ("fname" .
-   [0 0 0 3 0])
-  ("read" .
-   [4 0 0 0])
-  ("close" .
-   [1 0 1 0 0])
-  ("re" .
-   [3 0])
-  ("source" .
-   [0 0 0 2 0 0])
-  ("template_name" .
-   [0 0 0 1 1 0 0 0 0 0 2 1 2])
-  ("the" .
-   [2 0 0])
-  ("be" .
-   [1 0])
-  ("TemplateDoesNotExist" .
-   [0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("load_template_source" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("arg" .
-   [2 0 0])
-  ("value" .
-   [8 0 0 1 0])
-  ("lower" .
-   [3 0 0 1 0])
-  ("filter" .
-   [4 0 0 0 2 0])
-  ("cut" .
-   [1 0 0])
-  ("http" .
-   [1 0 0 0])
-  ("year" .
-   [8 0 2 0])
-  ("str" .
+  ("map" .
    [10 0 0])
-  ("month" .
-   [3 0 0 1 0])
-  ("global-set-key" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 2])
-  ("kill-whole-line" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("define-key" .
-   [0 0 0 0 0 0 1 0 0 2])
-  ("insert-line" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("set-mark-command" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("point-min-marker" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("else" .
-   [8 0 1 0])
-  ("print" .
-   [4 0 0 0 1])
-  ("at" .
-   [1 0])
-  ("member_id" .
-   [0 0 1 2 0 0 0 0 1])
-  ("session" .
-   [1 0 0 1 6 0 4])
-  ("get" .
-   [7 0 1])
-  ("after_login" .
-   [0 0 1 0 0 0 0 0 0 0 0])
-  ("username" .
-   [4 0 0 0 1 0 0 0])
-  ("POST" .
-   [3 0 0 1])
-  ("password" .
-   [0 0 0 0 0 1 1 2])
-  ("auth" .
-   [8 0 0 0])
-  ("Authentication" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("user" .
-   [9 0 0 0])
-  ("is" .
-   [3 0])
-  ("pass" .
-   [5 0 1 0])
-  ("use" .
-   [1 0 0])
-  ("login" .
-   [3 0 0 0 0])
-  ("to" .
-   [1 0])
-  ("HttpResponseRedirect" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 1 3 1 0 0 0 0])
-  ("an" .
-   [1 0])
-  ("error" .
-   [1 0 0 0 0])
-  ("account_loggedin" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("Access" .
-   [0 0 0 1 0 0])
-  ("account_invalid" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("login_view" .
-   [0 0 0 0 0 0 1 0 0 0])
-  ("method" .
-   [1 0 0 1 0 0])
-  ("form" .
-   [13 0 0 0])
-  ("LoginForm" .
-   [0 0 1 0 0 0 0 0 1])
-  ("logout" .
-   [4 0 0 0 0 0])
-  ("forms" .
-   [5 0 0 0 1])
-  ("Create" .
-   [0 0 0 0 1 0])
-  ("UserCreationForm" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
-  ("is_valid" .
-   [0 0 0 0 0 0 0 1])
-  ("save" .
-   [1 0 0 0])
-  ("CACHE_BACKEND" .
-   [0 0 2 0 0 1 0 0 0 0 0 0 0])
-  ("False" .
-   [2 0 0 0 0])
-  ("FlatPage" .
-   [0 0 0 1 1 0 0 1])
-  ("flatpages" .
-   [1 0 0 0 0 0 0 0 0])
-  ("keyword" .
-   [0 0 0 1 0 0 0])
-  ("keyword_results" .
-   [0 0 1 0 0 0 0 0 1 1 1 0 0 0 0])
-  ("SearchKeyword" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("query" .
-   [0 0 1 3 1])
-  ("objects" .
-   [6 0 0 0 0 0 0])
-  ("links" .
-   [1 0 0 0 0])
-  ("empty-list" .
-   [0 0 0 0 0 0 0 0 1 0])
-  ("gazelle" .
-   [1 0 0 0 0 0 0])
-  ("t" .
-   [2])
-  ("tiger" .
-   [1 0 0 0 0])
-  ("while" .
-   [10 0 0 0 0])
-  ("cdr" .
-   [5 0 0])
-  ("car" .
-   [5 0 0])
-  ("print-element-of-list" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  (">=" .
-   [1 0])
-  ("row-number" .
-   [0 0 0 4 0 0 0 0 0 0])
-  ("number-of-rows" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("total" .
-   [3 0 0 0 0])
-  ("1+" .
-   [1 0])
-  ("triangle" .
-   [0 0 0 0 0 0 1 1])
-  ("reverse-list-with-while" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("dolist" .
+  ("ins" .
+   [2 0 0])
+  ("insert" .
    [1 0 0 0 0 0])
-  ("element" .
-   [1 0 0 0 1 0 0])
-  ("reverse" .
-   [0 0 0 0 0 0 1])
-  ("reverse-list-with-dolist" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("Language" .
-   [0 0 1 1 3 0 0 0])
-  ("Snippet" .
-   [0 0 2 2 0 0 1])
-  ("db" .
-   [2 0])
-  ("User" .
-   [4 0 1 0])
-  ("Count" .
-   [2 0 0 1 0])
-  ("top_authors" .
-   [0 0 0 0 0 1 0 0 0 0 2])
-  ("annotate" .
-   [0 0 0 1 1 0 0 0])
-  ("score" .
-   [2 0 0 0 0])
-  ("order_by" .
-   [0 0 0 1 0 1 0 0])
-  ("cab" .
-   [4 0 0])
-  ("top_languages" .
-   [0 0 0 1 0 1 0 1 0 0 0 0 0])
-  ("paginate_by" .
-   [0 0 0 0 0 0 1 0 0 0 0])
-  ("Manager" .
-   [0 0 0 0 0 0 1])
-  ("popular" .
-   [0 0 0 1 0 0 0])
-  ("public" .
-   [12 0 0 6 7 3])
-  ("CostItem" .
-   [0 0 0 0 1 0 0 2])
-  ("Expense" .
-   [0 0 2 0 0 0 1])
-  ("CostItemAdmin" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("ExpenseAdmin" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("forwhat" .
-   [1 0 0 0 0 1 0])
-  ("verbose_name_plural" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("static" .
-   [7 0 1 1 1 3])
-  ("void" .
-   [4 0 1 2])
-  ("args" .
-   [5 0 0 0])
-  ("syso" .
-   [13 0 0 0])
-  ("catch" .
-   [0 0 0 1 0])
-  ("throws" .
-   [10 0 0 0 0 0])
-  ("throw" .
-   [1 0 0 1 1])
-  ("new" .
-   [21 0 0])
-  ("scroll-bar-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("menu-bar-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("sitemaps" .
-   [0 0 0 0 0 1 3 1])
-  ("zinnia" .
-   [1 0 0 0 1 1])
-  ("A" .
-   [1])
-  ("TagSitemap" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("EntrySitemap" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("AuthorsSitemap" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("CategorySitemap" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("AuthorSitemap" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("MEDIA_ROOT" .
-   [0 0 0 1 0 0 0 0 0 0])
-  ("EntryChannel" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("app_image" .
-   [0 0 0 1 0 0 0 0 0])
-  ("filebrowser" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("tr" .
-   [2 0])
-  ("fo" .
-   [1 0])
-  ("wh" .
-   [2 0])
-  ("fori" .
-   [1 0 0 0])
-  ("os" .
-   [2 0])
-  ("environ" .
-   [1 0 0 1 0 0 0])
-  ("sae" .
-   [1 0 0])
-  ("const" .
-   [1 0 0 0 0])
-  ("MYSQL_DB" .
-   [0 0 0 0 0 0 0 3])
-  ("MYSQL_HOST" .
-   [0 0 1 0 1 0 0 0 0 1])
-  ("MYSQL_USER" .
-   [0 0 1 1 0 0 0 0 0 0])
-  ("MYSQL_PASS" .
+  ("setComment" .
    [0 0 0 0 1 0 0 0 0 0])
-  ("3306" .
-   [1 0 0 0])
-  ("MYSQL_PORT" .
-   [0 0 1 0 0 0 0 0 0 0])
-  ("PrintStream" .
-   [0 0 1 0 0 1 0 0 0 0 0])
-  ("bis" .
-   [1 0 0])
-  ("br" .
-   [2 0])
-  ("setOut" .
-   [1 0 0 0 0 0])
-  ("console" .
-   [0 0 0 0 1 0 0])
-  ("when" .
-   [1 0 0 0])
-  ("locate-library" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("auto-complete" .
-   [0 0 0 0 2 0 0 0 0 0 0 0 0])
-  ("load-file" .
-   [1 0 0 0 0 0 1 0 0])
-  ("yas/global-mode" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 1 0])
-  ("dropdown-list" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("yas-dropdown-prompt" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("yas-keymap" .
-   [0 0 0 0 0 0 0 1 0 0])
-  ("yas-next-field" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("yas-next-field-or-maybe-expand" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("kbd" .
-   [3 0 0])
-  ("substitute-key-definition" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("bsh-run" .
-   [1 0 0 0 0 0 0])
-  ("delq" .
-   [1 0 0 0])
-  ("shell" .
-   [1 0 0 0 0])
-  ("same-window-buffer-names" .
-   [0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("border-width" .
-   [0 0 0 0 0 0 1 0 0 0 0 0])
-  ("interface" .
-   [1 0 0 0 0 0 0 0 0])
-  ("Math" .
-   [3 0 0 0])
-  ("font-lock-variable-name-face" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("font-lock-value-in-major-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("private" .
-   [2 0 0 0 0 0 0])
-  ("final" .
-   [2 0 0 0 1])
-  ("i" .
-   [4])
-  ("white" .
-   [1 0 0 0 0])
-  ("package" .
-   [2 0 0 0 0 1 0])
-  ("protected" .
-   [0 0 0 0 0 0 0 1 1])
-  ("jde-enable-abbrev-mode" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("disable-theme" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  (":italic" .
-   [1 0 0 0 0 0 0])
-  ("bottom-left-angle" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  (":inherit" .
-   [0 0 0 0 0 1 0 0])
-  ("shadow" .
-   [0 0 0 0 0 1])
-  (":background" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("jde-check-version" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("jde-check-version-flag" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("float" .
-   [1 0 0 0 0])
-  ("append" .
-   [0 0 0 1 0 0])
-  ("left_for_right" .
-   [0 0 0 1 0 0 0 1 0 1 0 0 0 0])
-  ("left" .
-   [0 0 0 1])
-  ("jde-jdk-registry" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("ecb-options-version" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("ecb-primary-secondary-mouse-buttons" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("mouse-1--mouse-2" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("deftheme" .
-   [0 0 0 0 1 0 0 0])
-  ("customize" .
-   [0 0 0 0 0 1 0 0 0])
-  ("custom-theme-set-faces" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("songuo-jde" .
-   [0 0 0 0 1 0 0 1 0 0])
-  ("load-theme" .
-   [0 0 0 0 1 1 0 0 0 0])
-  ("songuo-python" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("load-library" .
-   [0 0 0 0 0 0 1 0 0 1 0 0])
-  ("split" .
-   [0 1 0 0 0])
-  ("load" .
-   [0 0 1 0])
-  ("__height" .
-   [0 0 0 0 0 0 1 0])
-  ("__colors" .
-   [0 0 0 1 0 0 0 0])
-  ("EnvironmentError" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("Unpickler" .
-   [0 0 0 0 1 0 0 0 0])
-  ("UnpicklingError" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("LoadError" .
-   [0 0 0 0 1 0 0 0 0])
-  ("finally" .
-   [0 0 0 0 1 0 0])
-  ("ExportError" .
+  ("setPassword" .
    [0 0 0 0 0 1 0 0 0 0 0])
-  ("positive_result" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("result" .
-   [6 0 0 2 0 0])
-  ("wrapper" .
-   [0 0 0 2 0 2 0])
-  ("funcion" .
-   [0 0 0 1 3 0 0])
-  ("__doc__" .
+  ("setUserName" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("UserMapper" .
+   [1 0 0 0 0 0 1 0 1 0])
+  ("auto-complete-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("group_posts" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("with" .
+   [2 0 0 0])
+  ("create_at" .
+   [0 0 1 2 1 0 0 0 0])
+  ("Post" .
+   [1 0 0 0])
+  ("subqueryload" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("options" .
    [0 0 0 1 0 0 0])
-  ("discriminant" .
-   [0 0 0 3 1 1 0 0 0 0 0 0])
-  ("functools" .
-   [0 0 0 0 1 1 0 0 0])
-  ("minimum" .
+  ("session_context" .
+   [0 0 0 0 1 0 0 0 0 2 0 0 0 0 0])
+  ("LAYOUT_HORIZONTAL" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PROJECT_NAME" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("fdfdf" .
+   [1 0 0 0 0])
+  ("get_text" .
+   [0 0 0 0 1 0 0 0])
+  ("all_a" .
+   [0 0 0 2 0])
+  ("find_all" .
+   [0 0 0 0 0 0 1 0])
+  ("html_doc" .
+   [0 0 0 0 1 0 0 0])
+  ("BeautifulSoup" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("data2set" .
+   [0 0 0 0 2 3 0 0])
+  ("searchTime" .
+   [0 0 1 1 0 0 0 0 0 0])
+  ("smart" .
+   [2 0 0 0 0])
+  ("trim" .
+   [2 0 0 0])
+  ("org" .
+   [1 0 0])
+  ("util" .
+   [1 0 0 0])
+  ("toString" .
+   [1 0 0 0 0 0 0 0])
+  ("json" .
+   [2 0 0 0])
+  ("JSONArray" .
+   [0 0 2 0 0 0 0 0 0])
+  ("HashSet" .
+   [3 0 0 1 1 0 0])
+  ("io" .
+   [2 0])
+  ("TEXT_HTML" .
+   [0 0 0 0 0 1 0 0 0])
+  ("getLexemeText" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("null" .
+   [10 0 0 0])
+  ("lex" .
+   [3 0 0])
+  ("Lexeme" .
+   [1 0 0 0 0 0])
+  ("StringReader" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("mode" .
+   [2 0 0 0])
+  ("boolean" .
+   [1 0 0 0 0 0 0])
+  ("@QueryParam" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("@DefaultValue" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ikSeg" .
+   [1 0 0 1 0])
+  ("IKSegmenter" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("rs" .
+   [12 0])
+  ("ws" .
+   [2 0])
+  ("javax" .
+   [9 0 0 0 0])
+  ("segment" .
+   [1 0 0 0 0 0 0])
+  ("MediaType" .
+   [0 0 0 0 0 2 0 0 0])
+  ("@Produces" .
+   [0 0 0 0 1 0 0 0 0])
+  ("@GET" .
+   [2 0 0 0])
+  ("seg" .
+   [4 0 0])
+  ("@Path" .
+   [1 0 0 0 0])
+  ("lucene" .
+   [1 0 0 0 1 0])
+  ("restful" .
+   [0 0 0 0 1 0 0])
+  ("hit" .
+   [1 0 0])
+  ("bottle" .
+   [0 0 0 0 2 0])
+  ("files" .
+   [0 0 0 0 1])
+  ("set_cookie" .
+   [0 0 0 3 0 0 0 0 0 0])
+  ("get_cookie" .
+   [0 0 0 0 0 1 0 1 0 0])
+  ("redirect" .
+   [0 0 1 0 1 1 0 0])
+  ("reduce" .
+   [0 0 0 1 0 0])
+  ("content_type" .
+   [0 0 0 1 0 0 0 1 0 0 0 0])
+  ("Bottle" .
+   [0 0 0 0 3 0])
+  ("IndexError" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("AttributeError" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("atomic" .
+   [0 0 0 1 0 0])
+  ("AtomicList" .
+   [0 0 0 3 0 0 0 0 0 0])
+  ("exc_type" .
+   [0 0 0 0 0 0 1 0])
+  ("modified" .
+   [0 0 1 0 1 0 0 0])
+  ("original" .
+   [0 0 0 2 1 0 0 0])
+  ("ord" .
+   [0 0 1])
+  ("shallow_copy" .
+   [0 0 3 0 0 0 0 0 0 0 0 0])
+  ("bounded" .
+   [1 0 0 0 0 0 0])
+  ("deco" .
+   [0 0 0 1])
+  ("maximum" .
    [0 0 0 0 2 0 0])
   ("max" .
    [1 0 0])
-  ("maximum" .
+  ("minimum" .
    [0 0 0 0 2 0 0])
-  ("deco" .
-   [0 0 0 1])
-  ("bounded" .
-   [1 0 0 0 0 0 0])
-  ("shallow_copy" .
-   [0 0 3 0 0 0 0 0 0 0 0 0])
-  ("ord" .
-   [0 0 1])
-  ("original" .
-   [0 0 0 2 1 0 0 0])
-  ("modified" .
-   [0 0 1 0 1 0 0 0])
-  ("exc_type" .
-   [0 0 0 0 0 0 1 0])
-  ("AtomicList" .
-   [0 0 0 3 0 0 0 0 0 0])
-  ("atomic" .
-   [0 0 0 1 0 0])
-  ("AttributeError" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("IndexError" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("Bottle" .
-   [0 0 0 0 3 0])
-  ("content_type" .
-   [0 0 0 1 0 0 0 1 0 0 0 0])
-  ("reduce" .
-   [0 0 0 1 0 0])
-  ("redirect" .
-   [0 0 1 0 1 1 0 0])
-  ("get_cookie" .
-   [0 0 0 0 0 1 0 1 0 0])
-  ("set_cookie" .
-   [0 0 0 3 0 0 0 0 0 0])
-  ("files" .
-   [0 0 0 0 1])
-  ("bottle" .
-   [0 0 0 0 2 0])
-  ("hit" .
-   [1 0 0])
-  ("restful" .
-   [0 0 0 0 1 0 0])
-  ("lucene" .
-   [1 0 0 0 1 0])
-  ("@Path" .
-   [1 0 0 0 0])
-  ("seg" .
-   [4 0 0])
-  ("@GET" .
-   [2 0 0 0])
-  ("@Produces" .
-   [0 0 0 0 1 0 0 0 0])
-  ("MediaType" .
-   [0 0 0 0 0 2 0 0 0])
-  ("segment" .
-   [1 0 0 0 0 0 0])
-  ("javax" .
-   [2 0 0 0 0])
-  ("ws" .
-   [2 0])
-  ("rs" .
-   [2 0])
-  ("IKSegmenter" .
-   [0 0 1 1 0 0 0 0 0 0 0])
-  ("ikSeg" .
-   [1 0 0 1 0])
-  ("@DefaultValue" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("@QueryParam" .
-   [0 0 1 0 0 0 0 0 0 0 0])
-  ("boolean" .
-   [1 0 0 0 0 0 0])
-  ("mode" .
-   [2 0 0 0])
-  ("StringReader" .
-   [2 0 0 0 0 0 0 0 0 0 0 0])
-  ("Lexeme" .
-   [1 0 0 0 0 0])
-  ("lex" .
-   [3 0 0])
-  ("null" .
-   [2 0 0 0])
-  ("getLexemeText" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("TEXT_HTML" .
-   [0 0 0 0 0 1 0 0 0])
-  ("io" .
-   [2 0])
-  ("HashSet" .
-   [2 0 0 0 1 0 0])
-  ("JSONArray" .
-   [0 0 2 0 0 0 0 0 0])
-  ("json" .
-   [2 0 0 0])
-  ("toString" .
-   [1 0 0 0 0 0 0 0])
-  ("util" .
-   [1 0 0 0])
-  ("org" .
-   [1 0 0])
-  ("trim" .
-   [1 0 0 0])
-  ("smart" .
-   [2 0 0 0 0])
-  ("searchTime" .
-   [0 0 1 1 0 0 0 0 0 0])
-  ("data2set" .
-   [0 0 0 0 2 3 0 0])
-  ("BeautifulSoup" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("html_doc" .
-   [0 0 0 0 1 0 0 0])
-  ("find_all" .
-   [0 0 0 0 0 0 1 0])
-  ("all_a" .
-   [0 0 0 2 0])
-  ("get_text" .
-   [0 0 0 0 1 0 0 0])
-  ("fdfdf" .
-   [1 0 0 0 0])
-  ("PROJECT_NAME" .
-   [0 0 0 0 0 0 0 0 0 1 0 0])
-  ("LAYOUT_HORIZONTAL" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("session_context" .
-   [0 0 0 0 1 0 0 0 0 2 0 0 0 0 0])
-  ("options" .
+  ("functools" .
+   [0 0 0 0 1 1 0 0 0])
+  ("discriminant" .
+   [0 0 0 3 1 1 0 0 0 0 0 0])
+  ("__doc__" .
    [0 0 0 1 0 0 0])
-  ("subqueryload" .
-   [0 0 0 1 0 0 0 0 0 0 0 0])
-  ("Post" .
-   [1 0 0 0])
-  ("create_at" .
-   [0 0 1 2 1 0 0 0 0])
-  ("with" .
-   [2 0 0 0])
-  ("group_posts" .
-   [0 0 1 0 0 0 0 0 0 0 0])
-  ("auto-complete-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("UserMapper" .
-   [1 0 0 0 0 0 1 0 1 0])
-  ("setUserName" .
-   [0 0 0 0 0 0 0 0 1 0 0])
-  ("setPassword" .
+  ("funcion" .
+   [0 0 0 1 3 0 0])
+  ("wrapper" .
+   [0 0 0 2 0 2 0])
+  ("result" .
+   [6 0 0 2 0 0])
+  ("positive_result" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ExportError" .
    [0 0 0 0 0 1 0 0 0 0 0])
-  ("setComment" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("insert" .
+  ("finally" .
+   [0 0 0 0 1 0 0])
+  ("LoadError" .
+   [0 0 0 0 1 0 0 0 0])
+  ("UnpicklingError" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("Unpickler" .
+   [0 0 0 0 1 0 0 0 0])
+  ("EnvironmentError" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("__colors" .
+   [0 0 0 1 0 0 0 0])
+  ("__height" .
+   [0 0 0 0 0 0 1 0])
+  ("load" .
+   [0 0 1 0])
+  ("split" .
+   [0 1 0 0 0])
+  ("load-library" .
+   [0 0 0 0 0 0 1 0 0 1 0 0])
+  ("songuo-python" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("load-theme" .
+   [0 0 0 0 1 1 0 0 0 0])
+  ("songuo-jde" .
+   [0 0 0 0 1 0 0 1 0 0])
+  ("custom-theme-set-faces" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("customize" .
+   [0 0 0 0 0 1 0 0 0])
+  ("deftheme" .
+   [0 0 0 0 1 0 0 0])
+  ("mouse-1--mouse-2" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("ecb-primary-secondary-mouse-buttons" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ecb-options-version" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("jde-jdk-registry" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("left" .
+   [0 0 0 1])
+  ("left_for_right" .
+   [0 0 0 1 0 0 0 1 0 1 0 0 0 0])
+  ("append" .
+   [0 0 0 1 0 0])
+  ("float" .
+   [1 0 0 0 0])
+  ("jde-check-version-flag" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("jde-check-version" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  (":background" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("shadow" .
+   [0 0 0 0 0 1])
+  (":inherit" .
+   [0 0 0 0 0 1 0 0])
+  ("bottom-left-angle" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":italic" .
+   [1 0 0 0 0 0 0])
+  ("disable-theme" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("jde-enable-abbrev-mode" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("protected" .
+   [0 0 0 0 0 2 0 1 1])
+  ("package" .
+   [3 0 0 0 1 1 0])
+  ("white" .
+   [1 0 0 0 0])
+  ("i" .
+   [6])
+  ("final" .
+   [2 0 0 0 1])
+  ("private" .
+   [3 0 0 0 0 0 0])
+  ("font-lock-value-in-major-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("font-lock-variable-name-face" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Math" .
+   [3 0 0 0])
+  ("interface" .
+   [1 0 0 0 0 0 0 0 0])
+  ("border-width" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("same-window-buffer-names" .
+   [0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("shell" .
+   [1 0 0 0 0])
+  ("delq" .
+   [1 0 0 0])
+  ("bsh-run" .
+   [1 0 0 0 0 0 0])
+  ("substitute-key-definition" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [3 0 0])
+  ("yas-next-field-or-maybe-expand" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("yas-next-field" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("yas-keymap" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("yas-dropdown-prompt" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dropdown-list" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("yas/global-mode" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 1 0])
+  ("load-file" .
+   [1 0 0 0 0 0 1 0 0])
+  ("auto-complete" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("locate-library" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("when" .
+   [1 0 0 0])
+  ("console" .
+   [0 0 0 0 1 0 0])
+  ("setOut" .
    [1 0 0 0 0 0])
-  ("ins" .
-   [2 0 0])
-  ("map" .
+  ("br" .
+   [2 0])
+  ("bis" .
    [1 0 0])
-  ("st" .
-   [1 0])))
+  ("PrintStream" .
+   [0 0 1 0 0 1 0 0 0 0 0])
+  ("MYSQL_PORT" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("3306" .
+   [1 0 0 0])
+  ("MYSQL_PASS" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("MYSQL_USER" .
+   [0 0 1 1 0 0 0 0 0 0])
+  ("MYSQL_HOST" .
+   [0 0 1 0 1 0 0 0 0 1])
+  ("MYSQL_DB" .
+   [0 0 0 0 0 0 0 3])
+  ("const" .
+   [1 0 0 0 0])
+  ("sae" .
+   [1 0 0])
+  ("environ" .
+   [1 0 0 1 0 0 0])
+  ("os" .
+   [2 0])
+  ("fori" .
+   [1 0 0 0])
+  ("wh" .
+   [2 0])
+  ("fo" .
+   [1 0])
+  ("tr" .
+   [2 0])
+  ("filebrowser" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("app_image" .
+   [0 0 0 1 0 0 0 0 0])
+  ("EntryChannel" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("MEDIA_ROOT" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("AuthorSitemap" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CategorySitemap" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("AuthorsSitemap" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("EntrySitemap" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("TagSitemap" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("A" .
+   [1])
+  ("zinnia" .
+   [1 0 0 0 1 1])
+  ("sitemaps" .
+   [0 0 0 0 0 1 3 1])
+  ("menu-bar-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("scroll-bar-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("new" .
+   [32 0 0])
+  ("throw" .
+   [1 0 0 4 1])
+  ("throws" .
+   [14 0 1 0 0 0])
+  ("catch" .
+   [0 0 0 2 0])
+  ("syso" .
+   [17 0 0 0])
+  ("args" .
+   [5 0 0 0])
+  ("void" .
+   [12 0 2 2])
+  ("static" .
+   [10 0 1 1 1 3])
+  ("verbose_name_plural" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("forwhat" .
+   [1 0 0 0 0 1 0])
+  ("ExpenseAdmin" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("CostItemAdmin" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("Expense" .
+   [0 0 2 0 0 0 1])
+  ("CostItem" .
+   [0 0 0 0 1 0 0 2])
+  ("public" .
+   [14 0 0 7 15 3])
+  ("popular" .
+   [0 0 0 1 0 0 0])
+  ("Manager" .
+   [0 0 0 0 0 0 1])
+  ("paginate_by" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("top_languages" .
+   [0 0 0 1 0 1 0 1 0 0 0 0 0])
+  ("cab" .
+   [4 0 0])
+  ("order_by" .
+   [0 0 0 1 0 1 0 0])
+  ("score" .
+   [2 0 0 0 0])
+  ("annotate" .
+   [0 0 0 1 1 0 0 0])
+  ("top_authors" .
+   [0 0 0 0 0 1 0 0 0 0 2])
+  ("Count" .
+   [2 0 0 1 0])
+  ("User" .
+   [4 0 1 0])
+  ("db" .
+   [2 0])
+  ("Snippet" .
+   [0 0 2 2 0 0 1])
+  ("Language" .
+   [0 0 1 1 3 0 0 0])
+  ("reverse-list-with-dolist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("reverse" .
+   [0 0 0 0 0 0 1])
+  ("element" .
+   [1 0 0 0 1 0 0])
+  ("dolist" .
+   [1 0 0 0 0 0])
+  ("reverse-list-with-while" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("triangle" .
+   [0 0 0 0 0 0 1 1])
+  ("1+" .
+   [1 0])
+  ("total" .
+   [3 0 0 0 0])
+  ("number-of-rows" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("row-number" .
+   [0 0 0 4 0 0 0 0 0 0])
+  (">=" .
+   [1 0])
+  ("print-element-of-list" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("car" .
+   [5 0 0])
+  ("cdr" .
+   [5 0 0])
+  ("while" .
+   [18 0 0 0 0])
+  ("tiger" .
+   [1 0 0 0 0])
+  ("t" .
+   [3])
+  ("gazelle" .
+   [1 0 0 0 0 0 0])
+  ("empty-list" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("links" .
+   [1 0 0 0 0])
+  ("objects" .
+   [6 0 0 0 0 0 0])
+  ("query" .
+   [0 0 1 3 1])
+  ("SearchKeyword" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("keyword_results" .
+   [0 0 1 0 0 0 0 0 1 1 1 0 0 0 0])
+  ("keyword" .
+   [0 0 0 1 0 0 0])
+  ("flatpages" .
+   [1 0 0 0 0 0 0 0 0])
+  ("FlatPage" .
+   [0 0 0 1 1 0 0 1])
+  ("False" .
+   [2 0 0 0 0])
+  ("CACHE_BACKEND" .
+   [0 0 2 0 0 1 0 0 0 0 0 0 0])
+  ("save" .
+   [1 0 0 0])
+  ("is_valid" .
+   [0 0 0 0 0 0 0 1])
+  ("UserCreationForm" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("Create" .
+   [0 0 0 0 1 0])
+  ("forms" .
+   [5 0 0 0 1])
+  ("logout" .
+   [4 0 0 0 0 0])
+  ("LoginForm" .
+   [0 0 1 0 0 0 0 0 1])
+  ("form" .
+   [13 0 0 0])
+  ("method" .
+   [1 0 0 1 0 0])
+  ("login_view" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("account_invalid" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("Access" .
+   [0 0 0 1 0 0])
+  ("account_loggedin" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("error" .
+   [1 0 0 0 0])
+  ("an" .
+   [1 0])
+  ("HttpResponseRedirect" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 1 3 1 0 0 0 0])
+  ("to" .
+   [1 0])
+  ("login" .
+   [3 0 0 0 0])
+  ("use" .
+   [1 0 0])
+  ("pass" .
+   [5 0 1 0])
+  ("is" .
+   [3 0])
+  ("user" .
+   [9 0 0 0])
+  ("Authentication" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("auth" .
+   [8 0 0 0])
+  ("password" .
+   [0 0 0 0 0 1 1 2])
+  ("POST" .
+   [3 0 0 1])
+  ("username" .
+   [4 0 0 0 1 0 0 0])
+  ("after_login" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("get" .
+   [13 0 1])
+  ("session" .
+   [3 0 0 2 17 0 4])
+  ("member_id" .
+   [0 0 1 2 0 0 0 0 1])
+  ("at" .
+   [1 0])
+  ("print" .
+   [4 0 0 0 1])
+  ("else" .
+   [11 0 1 0])
+  ("point-min-marker" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("set-mark-command" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("insert-line" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("define-key" .
+   [0 0 0 0 0 0 1 0 0 2])
+  ("kill-whole-line" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 2])
+  ("month" .
+   [3 0 0 1 0])
+  ("str" .
+   [12 0 0])
+  ("year" .
+   [8 0 2 0])
+  ("http" .
+   [2 0 0 0])
+  ("cut" .
+   [1 0 0])
+  ("filter" .
+   [4 0 0 1 2 0])
+  ("lower" .
+   [3 0 0 1 0])
+  ("value" .
+   [8 0 0 1 0])
+  ("arg" .
+   [2 0 0])
+  ("load_template_source" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("TemplateDoesNotExist" .
+   [0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("be" .
+   [1 0])
+  ("the" .
+   [2 0 0])
+  ("template_name" .
+   [0 0 0 1 1 0 0 0 0 0 2 1 2])
+  ("source" .
+   [0 0 0 2 0 0])
+  ("re" .
+   [3 0])
+  ("close" .
+   [12 0 1 0 0])
+  ("read" .
+   [4 0 0 0])
+  ("fname" .
+   [0 0 0 3 0])
+  ("zipfile" .
+   [0 0 0 0 1 0 0])
+  ("template_zipfiles" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("template_dirs" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("in" .
+   [17 0])
+  ("settings" .
+   [0 0 0 1 4 0 0 0])
+  ("getattr" .
+   [0 0 0 0 0 0 1])
+  ("None" .
+   [2 0 3 1])
+  ("shortcuts" .
+   [0 0 0 1 0 1 0 0 1])
+  ("BookAdmin" .
+   [0 0 0 1 0 0 0 0 0])
+  ("list_display" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("ModelAdmin" .
+   [0 0 0 1 0 0 1 1 0 0])
+  ("AuthorAdmin" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("True" .
+   [3 0 1 1])
+  ("blank" .
+   [0 0 0 1 0])
+  ("autodiscover" .
+   [0 0 0 1 1 0 0 0 0 0 0 0])
+  ("admin" .
+   [10 0 0 4 2])
+  ("contrib" .
+   [0 0 1 0 0 4 4])
+  ("ManyToManyField" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("Publisher" .
+   [0 0 5 4 2 0 0 0 2])
+  ("Author" .
+   [0 0 2 2 4 1])
+  ("Model" .
+   [0 0 0 3 3])
+  ("max_length" .
+   [0 0 0 0 2 0 0 0 0 5])
+  ("CharField" .
+   [0 0 1 2 4 0 0 0 0])
+  ("models" .
+   [8 0 0 1 4 19])
+  ("object" .
+   [1 0 0 0 1 19])
+  ("class" .
+   [29 0 0 7 1])
+  ("setf" .
+   [1 0 0 0])
+  ("buffer-file-name" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("counter" .
+   [3 0 0 0 0 0 0])
+  ("flowers" .
+   [0 0 0 0 2 0 0])
+  ("set" .
+   [10 0 0])
+  ("buffer-name" .
+   [0 0 0 0 0 0 0 1 1 0 1])
+  ("message" .
+   [0 0 0 0 0 0 13])
+  ("number-to-string" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("substring" .
+   [1 0 0 0 0 0 0 0 1])
+  ("defun" .
+   [4 0 0 1 8])
+  ("concat" .
+   [0 0 0 0 0 2])
+  ("linum-mode" .
+   [0 0 0 0 1 1 1 0 0 0])
+  ("dt" .
+   [1 0])
+  ("includetest" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("include" .
+   [2 0 0 0 3 0 0])
+  ("current_datetime2" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("render_to_response" .
+   [0 0 0 3 5 1 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("render" .
+   [0 0 0 1 0 0])
+  ("get_template" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("template" .
+   [2 0 0 3 2 2 0 2])
+  ("Context" .
+   [0 0 0 1 0 0 0])
+  ("Template" .
+   [0 0 0 4 0 0 0 5])
+  ("open" .
+   [2 0 0 0])
+  ("django" .
+   [16 0 7 6 4 4])
+  ("assert" .
+   [0 0 0 1 0 0])
+  ("Http404" .
+   [0 0 0 0 0 2 0])
+  ("raise" .
+   [1 0 0 0 3])
+  ("except" .
+   [0 0 1 3 4 2])
+  ("int" .
+   [16 0 0])
+  ("offset" .
+   [1 0 0 2 2 0])
+  ("try" .
+   [7 0 2])
+  ("hours_ahead" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("two" .
+   [1 0 0])
+  ("current_datetime" .
+   [0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("now" .
+   [4 0 0])
+  ("datetime" .
+   [2 0 1 0 5 0 0 1])
+  ("html" .
+   [4 0 1 1])
+  ("test" .
+   [2 0 1 1])
+  ("HttpResponse" .
+   [1 0 1 5 0 0 0 0 0 0 0 10])
+  ("request" .
+   [5 0 9 26 7 4 21])
+  ("def" .
+   [41 0 0])
+  ("my_homepage_view" .
+   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("views" .
+   [22 0 1 0 4])
+  ("mysite" .
+   [1 0 1 2 1 1])
+  ("format" .
+   [0 0 0 5 0 3])
+  ("hello" .
+   [1 0 0 0 1])
+  ("set-foreground-color" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("set-mark" .
+   [0 0 0 0 0 0 1 0])
+  ("set-background-color" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("region-end" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("set-face-background" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("set-mouse-color" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("set-cursor-color" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("column-number-mode" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("line-number-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("quote" .
+   [1 0 0 0 2])
+  ("backup-directory-alist" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("version-control" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("make-backup-files" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("make-list" .
+   [0 0 0 0 0 0 1 0 0])
+  ("scroll-step" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("global-hl-line-mode" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("Python" .
+   [2 0 0 0 0 0])
+  ("from" .
+   [46 0 1 19])
+  ("info" .
+   [1 0 0 0])
+  ("System" .
+   [11 0 0 3 1 6])
+  ("out" .
+   [33 0 1])
+  ("println" .
+   [8 0 3 1 0 0 2])
+  ("import" .
+   [42 0 12 25 6 16])
+  ("java" .
+   [9 0 0 1])
+  ("IOException" .
+   [2 0 6 3 2 0 0 0 0 0 0])
+  ("loadfile" .
+   [1 0 0 0 0 0 0 0])
+  ("setq" .
+   [33 0 0 5])
+  ("auto-mode-alist" .
+   [1 0 0 0 0 0 1 1 0 2 0 0 0 0 0])
+  ("cons" .
+   [6 0 0 1])
+  ("python-mode" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("Auto" .
+   [0 0 0 1])
+  ("return" .
+   [14 0 9 20 32 11])
+  ("setq-default" .
+   [0 0 0 0 0 0 0 2 0 0 0 1])
+  ("fill-column" .
+   [0 0 0 0 4 1 1 0 0 0 2])
+  ("highlight-" .
+   [1 0 0 0 0 0 0 0 0 1])
+  ("color-" .
+   [0 0 0 0 0 1])
+  ("require" .
+   [0 0 0 1 4 2 1])
+  ("other-buffer" .
+   [0 0 0 3 0 0 0 0 0 0 0 0])
+  ("switch-to-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("current-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("buffer-size" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("point" .
+   [0 0 0 1 2])
+  ("point-min" .
+   [0 0 0 0 0 1 0 1 1])
+  ("point-max" .
+   [0 0 0 0 0 0 0 0 1])
+  ("self" .
+   [17 0 1 4])
+  ("name" .
+   [7 0 1 0])
+  ("__unicode__" .
+   [0 0 0 1 1 0 0 0 0 0 1])
+  ("first_name" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("lambda" .
+   [0 0 1 0 0 0])
+  ("last_name" .
+   [0 0 0 1 0 0 0 0 0])
+  ("title" .
+   [4 0 1 1 0])
+  ("continue" .
+   [0 0 0 1 0 1 0 1])
+  ("for" .
+   [17 0 0])
+  ("site" .
+   [3 0 2 0])
+  ("register" .
+   [1 0 0 2 3 1 0 1])
+  ("Book" .
+   [4 0 2 2])
+  ("export" .
+   [1 0 0 0 0 0])
+  ("MYSQL_HOME" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("mult" .
+   [0 0 0 1])
+  ("number" .
+   [5 0 0 0 2 0])
+  ("multiply-by-seven" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("interactive" .
+   [0 0 0 0 0 1 1 0 0 0 1])
+  ("nunion" .
+   [0 0 0 1 0 0])
+  ("let" .
+   [4 0 0])
+  ("var1" .
+   [1 0 0 0])
+  ("var2" .
+   [1 0 0 0])
+  ("e" .
+   [1])
+  ("if" .
+   [35 1])
+  ("equal" .
+   [0 0 0 0 1])
+  ("type-of-animal" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("fierce" .
+   [1 0 0 0 0 0])
+  ("zebra" .
+   [1 0 0 0 0])
+  ("push-mark" .
+   [0 0 0 0 1 1 0 0 0])
+  ("nil" .
+   [15 0 0])
+  ("goto-char" .
+   [0 0 0 0 1 0 0 0 0])
+  ("urlpatterns" .
+   [0 0 0 0 3 3 0 0 0 0 0])
+  ("patterns" .
+   [0 0 0 0 3 0 1 1])
+  ("direct_to_template" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("page" .
+   [3 0 0 0])
+  ("generic" .
+   [0 0 0 1 1 0 3])
+  ("simple" .
+   [0 0 0 1 0 0])
+  ("view" .
+   [3 0 0 0])
+  ("about_pages" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("list" .
+   [13 0 0 1])
+  ("books" .
+   [0 0 1 0 0])
+  ("list_detail" .
+   [0 0 0 1 0 4 1 0 0 0 2])
+  ("publisher_info" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("all" .
+   [7 0 0])
+  ("get_books" .
+   [0 0 0 0 1 0 0 0 0])
+  ("object_list" .
+   [0 0 0 0 0 0 0 2 4 2 0])
+  ("book_info" .
+   [0 0 0 1 0 0 0 0 0])
+  ("apress_books" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("file" .
+   [4 0 0 4])
+  ("publisher" .
+   [1 0 0 0 0 0 0 0 0])
+  ("queryset" .
+   [0 0 1 1 1 0 0 1])
+  ("template_object_name" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1])
+  ("extra_context" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("get_object_or_404" .
+   [0 0 0 2 1 3 0 0 0 0 0 0 0 0 0 0 0])
+  ("books_by_publisher" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("author_detail" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("author_list_plaintext" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("response" .
+   [0 0 0 14 7 2 0 1])
+  ("Feed" .
+   [8 0 0 1])
+  ("feedgenerator" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("add_domain" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("f8" .
+   [1 0])
+  ("move-end-of-line" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("move-beginning-of-line" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("next-line" .
+   [0 0 0 0 0 0 0 0 1])
+  ("kill-ring-save" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("exchange-dot-and-mark" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("copy-lines" .
+   [0 0 0 0 0 0 0 1 1 0])
+  ("exchange-point-and-mark" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("chapter14" .
+   [0 0 0 0 1 0 0 0 0])
+  ("show_color" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("set_color" .
+   [0 0 0 1 1 0 0 0 0])
+  ("and" .
+   [3 0 0])
+  ("not" .
+   [3 0 0])
+  ("GET" .
+   [2 0 0])
+  ("Article" .
+   [0 0 1 1 1 0 2])
+  ("id" .
+   [1 0])
+  ("article_id" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("Site" .
+   [1 0 0 0])
+  ("current_site" .
+   [0 0 0 0 3 0 0 0 0 0 0 0])
+  ("conf" .
+   [2 0 0 0])
+  ("Narrow" .
+   [1 0 0 1 0 0])
+  ("narrow-to-previous" .
+   [0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0])
+  ("length" .
+   [4 0 1 1 2 0])
+  ("nthcdr" .
+   [1 0 0 0 0 0])
+  ("anima" .
+   [0 0 0 0 2])
+  ("lion" .
+   [2 0 0 0])
+  ("animal" .
+   [5 0 0 6 1 1])
+  ("setcar" .
+   [1 0 0 0 0 0])
+  ("weblog" .
+   [1 0 0 1 0 0])
+  ("Entry" .
+   [0 0 0 2 9])
+  ("time" .
+   [1 0 0 0])
+  ("day" .
+   [3 0 0])
+  ("slug" .
+   [11 0 0 1])
+  ("pub_date" .
+   [0 0 0 0 0 0 1 9])
+  ("date" .
+   [1 0 0 0])
+  ("date_stamp" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("entry" .
+   [1 0 0 0 0])
+  ("entry_info_dict" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0 0 2])
+  ("date_based" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("entry_object_detail" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("entry_detail" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("entry_all" .
+   [3 0 0 0 0 0 0 1 0])
+  ("copy" .
+   [2 0 0 0])
+  ("entry_latest" .
+   [1 0 0 0 0 0 0 0 2 1 0 0])
+  ("entry_year" .
+   [2 0 0 0 0 0 0 0 1 0])
+  ("entry_month" .
+   [3 0 0 0 0 0 0 0 0 0 1])
+  ("entry_day" .
+   [3 0 0 0 0 0 0 0 0])
+  ("entry_index" .
+   [4 0 0 0 0 0 0 0 0 0 0])
+  ("entry_latext" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_absolute_url" .
+   [0 0 0 0 0 0 2 0 0 2 0 0 0 0 0 0])
+  ("strftime" .
+   [0 0 0 0 3 0 0 0])
+  ("permalink" .
+   [0 0 0 1 0 0 0 0 0])
+  ("Link" .
+   [3 0 0 2])
+  ("LinkAdmin" .
+   [0 0 1 0 0 0 0 0 0])
+  ("Category" .
+   [0 0 0 0 1 1 0 6])
+  ("category_detail" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("entry_set" .
+   [1 0 0 0 0 0 0 0 0])
+  ("category" .
+   [1 0 0 0 0 0 0 0])
+  ("tagging" .
+   [1 0 0 0 0 0 0])
+  ("TagField" .
+   [0 0 0 1 0 0 0 0])
+  ("Tag" .
+   [1 0 0])
+  ("triangle-recursively" .
+   [0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("1-" .
+   [1 0])
+  ("numbers-list" .
+   [0 0 0 0 0 0 0 0 3 0 1 0])
+  ("square-each" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  ("feeds" .
+   [6 0 0 0 0])
+  ("LatestEntriesFeed" .
+   [1 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 0])
+  ("feed" .
+   [1 0 0 0])
+  ("as" .
+   [1 0])
+  ("url" .
+   [14 0 0])
+  ("len" .
+   [2 0 0])
+  ("bits" .
+   [2 0 0 0])
+  ("ObjectDoesNotExist" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("obj" .
+   [7 0 0])
+  ("description" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("link" .
+   [1 0 0 0])
+  ("items" .
+   [1 0 0 0 0])
+  ("15" .
+   [1 0])
+  ("CategoryFeed" .
+   [1 0 0 0 0 0 0 0 0 2 0 0])
+  ("add_snippet" .
+   [0 0 0 1 1 0 0 0 0 0 0])
+  ("urls" .
+   [2 0 0 0])
+  ("printf" .
+   [0 0 0 0 1 0])
+  ("Meta" .
+   [0 0 1 0])
+  ("ordering" .
+   [0 0 0 0 0 1 0 0])
+  ("star" .
+   [3 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 1 1 0 0 0 0 3])
+  ("load-path" .
+   [0 0 0 0 0 0 2 1 2])
+  ("fci-rule-width" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("fci-rule-color" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("py-shell-name" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("py-install-directory" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("color-theme-molokai" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("r" .
+   [1])
+  ("login_required" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("need_login" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("next" .
+   [11 0 0 1])
+  ("as_view" .
+   [0 0 0 2 0 0 0])
+  ("RedirectView" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("PROJECT_ROOT" .
+   [0 0 3 1 0 0 0 0 0 0 0 0])
+  ("win" .
+   [1 0 0])
+  ("field_name" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("myCustomFileBrowser" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("d" .
+   [1])
+  ("ImageForm" .
+   [0 0 0 0 0 1 0 0 3])
+  ("image" .
+   [4 0 0 0 0])
+  ("songuo" .
+   [3 0 0 0 0 0])
+  ("ImageInfo" .
+   [1 0 0 0 0 0 0 0 0])
+  ("imageinfo" .
+   [0 0 0 1 0 0 0 0 1])
+  ("plugin" .
+   [1 0 0 0 0 0])
+  ("skin" .
+   [1 0 0 0])
+  ("dialog_type" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("width" .
+   [1 0 0 1 0])
+  ("758" .
+   [1 0 0])
+  ("height" .
+   [0 0 0 1 1 0])
+  ("300" .
+   [1 0 0])
+  ("indentation" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("plugins" .
+   [1 0 0 0 0 0 0])
+  ("theme_advanced_buttons1" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("theme_advanced_buttons2" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DataInputStream" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("char" .
+   [2 0 0 0])
+  ("ByteArrayInputStream" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("EOFException" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("jde-gen-define-abbrev-template" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("main" .
+   [3 0 0 0])
+  ("byte" .
+   [4 0 0 0])
+  ("BufferedInputStream" .
+   [0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bFile" .
+   [1 0 2 0 0])
+  ("tryf" .
+   [1 0 0 0])
+  ("data" .
+   [2 0 0 0])
+  ("String" .
+   [59 0 0 0 1 0])
+  ("File" .
+   [1 0 0 0])
+  ("string" .
+   [3 0 0 0 0 0])
+  ("filename" .
+   [1 0 1 1 2 1 0 1])
+  ("line" .
+   [1 0 0 0])
+  ("word" .
+   [9 0 0 0])
+  ("strip" .
+   [4 0 0 1 0])
+  ("words" .
+   [4 0 0 0 0])
+  ("sorted" .
+   [0 1 0 1 0 0])
+  ("jde-abbrev-mode" .
+   [0 0 0 0 1 1 0 3 0 1 0 0 0 0 0])
+  ("show-paren-mode" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("add-hook" .
+   [1 0 0 0 0 0 0 0])
+  ("jde-mode" .
+   [2 0 0 0 0 0 0 0])
+  ("dict" .
+   [1 0 0 0])
+  ("jde-mode-map" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("newline-and-indent" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("comment-or-uncomment-region" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("line-beginning-position" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("line-end-position" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("fdfd" .
+   [1 0 0 0])
+  ("region-beginning" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("val" .
+   [1 0 0])
+  ("color-theme-songuo" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("border" .
+   [2 0 0 0 0 0])
+  ("dateti" .
+   [1 0 0 0 0 0])
+  ("saxutils" .
+   [0 0 0 1 0 0 0 0])
+  ("today" .
+   [0 0 2 0 0])
+  ("information" .
+   [0 0 0 0 0 2 0 0 1 1 0])
+  ("populate_information" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("default" .
+   [1 0 0 0 1 0 0])
+  ("minimum_length" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("maximum_length" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("ValueError" .
+   [0 0 0 1 2 1 0 0 0 0])
+  ("CancelledError" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("gray15" .
+   [1 0 0 0 0 0])
+  ("dark" .
+   [1 0 0 0])
+  ("PI" .
+   [1 0])
+  ("oblique" .
+   [1 0 0 0 0 0 0])
+  ("font-size: ..." .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("set-face-attribute" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  (":font" .
+   [1 0 0 0 0])
+  (":height" .
+   [0 0 0 0 0 1 0])
+  ("songuo-emacs24-theme" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("stack" .
+   [0 0 0 1 1])
+  ("TextUtil" .
+   [1 0 0 0 0 0 0 0])
+  ("__name__" .
+   [0 0 1 0 1 0 1 0])
+  ("doctes" .
+   [1 0 0 0 0 0])
+  ("doctest" .
+   [1 0 0 0 0 0 0])
+  ("testmod" .
+   [0 0 0 1 0 0 0])
+  ("html-helper-mode" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("su" .
+   [2 0])
+  ("DirFilter" .
+   [0 0 0 1 0 0 0 0 0])
+  ("item" .
+   [1 0 0 0])
+  ("getName" .
+   [0 0 0 0 0 1 0])
+  ("dir" .
+   [1 0 0])
+  ("getAbsolutePath" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("property" .
+   [0 0 1 3 0 0 0 0])
+  ("radius" .
+   [0 0 1 1 1 0])
+  ("__radius" .
+   [0 0 0 0 0 0 1 0])
+  ("coordinate" .
+   [0 0 2 11 1 0 0 0 0 0])
+  ("CoordinateError" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("__background" .
+   [0 0 0 0 4 0 1 0 0 0 0 0])
+  ("__data" .
+   [0 0 0 1 3 0])
+  ("NotFilenameError" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("pickle" .
+   [0 0 0 1 2 0])
+  ("dictionary" .
+   [0 0 0 6 1 0 0 0 0 0])
+  ("SortedDict" .
+   [0 0 7 10 0 1 0 0 0 0])
+  ("__init__" .
+   [0 0 0 1 0 2 1 0])
+  ("kwargs" .
+   [0 0 5 0 0 0])
+  ("SortedList" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("isinstance" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("update" .
+   [0 0 0 1 1 0])
+  ("__setitem__" .
+   [0 0 0 0 0 0 1 1 0 0 0])
+  ("__keys" .
+   [0 0 0 2 5 2])
+  ("classmethod" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("iterable" .
+   [0 0 0 0 1 0 0 0])
+  ("KeyError" .
+   [0 0 0 2 0 0 0 0])
+  ("__delitem__" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("setdefault" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("popitem" .
+   [0 0 1 0 0 0 0])
+  ("remove" .
+   [0 0 0 0 1 0])
+  ("clear" .
+   [0 0 0 1 0])
+  ("__iter__" .
+   [0 0 0 0 0 1 0 0])
+  ("attribute_name" .
+   [0 0 0 4 0 1 0 0 0 0 0 0 0 0])
+  ("ExternalStorage" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("__storage" .
+   [0 0 0 0 1 1 0 0 0])
+  ("instance" .
+   [0 0 0 1 0 0 1 0])
+  ("distributed" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("distance_from_origin" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("static_file" .
+   [0 0 0 2 0 0 1 0 0 0 0])
+  ("ordered" .
+   [1 0 1 1 0 0 0])
+  ("infodict" .
+   [0 0 0 0 0 1 0 0])
+  ("dumps" .
+   [0 0 1 0 0])
+  ("unsure_ascii" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("enumerate" .
+   [0 0 1 0 0 0 0 0 0])
+  ("ensure_ascii" .
+   [0 0 2 1 1 0 0 0 0 0 0 0])
+  ("CrawlSpider" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("allowed_domains" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("SgmlLinkExtractor" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("save2file" .
+   [0 0 1 0 0 0 0 0 0])
+  ("HtmlXPathSelector" .
+   [0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("hxs" .
+   [0 0 1])
+  ("select" .
+   [0 0 1 0 1 0])
+  ("extract" .
+   [0 0 0 0 3 0 0])
+  ("urllib2" .
+   [0 0 0 1 0 0 0])
+  ("requests" .
+   [1 0 0 0 0 0 0 0])
+  ("res2json" .
+   [0 0 0 0 2 0 0 0])
+  ("del_dictkey" .
+   [0 0 0 0 6 0 0 0 0 1 0])
+  ("image_src" .
+   [0 0 0 1 0 1 0 0 0])
+  ("gevent" .
+   [0 0 3 1 0 0])
+  ("sleep" .
+   [0 0 0 0 1])
+  ("signal" .
+   [0 0 0 1 0 0])
+  ("SIGQUIT" .
+   [0 0 0 0 1 0 0])
+  ("spawn" .
+   [0 0 0 1 0])
+  ("Running" .
+   [0 0 0 1 0 0 0])
+  ("run_forever" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("extract_excerpt" .
+   [0 0 0 0 1 3 0 0 0 0 0 0 0 0 0])
+  ("jinja_view" .
+   [0 0 1 0 1 0 0 0 0 0])
+  ("toggle-fullscreen" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("clazz" .
+   [1 0 0 0 0])
+  ("groovy" .
+   [1 0 0 0 0 0])
+  ("b64encode" .
+   [0 0 0 0 1 0 0 0 0])
+  ("urandom" .
+   [0 0 0 0 0 0 1])
+  ("is_first" .
+   [0 0 1 0 0 0 1 0])
+  ("buildcodemap" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("s" .
+   [2])
+  ("Test" .
+   [1 0 0 0])
+  ("InputStream" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("Resouces" .
+   [0 0 0 0 0 0 1 0])
+  ("SqlSessionFactory" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("factory" .
+   [0 0 0 1 0 0 0])
+  ("SqlSession" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("HotelInfo" .
+   [1 0 0 0 1 0 0 0 0])
+  ("extends" .
+   [2 0 0 0 1 0 0])
+  ("HttpServlet" .
+   [0 0 0 2 2 0 0 0 0 0 0])
+  ("doGet" .
+   [2 0 0 0 0])
+  ("HttpServletRequest" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 1 2 0 0 0])
+  ("HttpServletResponse" .
+   [1 0 2 4 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ServletException" .
+   [1 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("doPost" .
+   [3 0 0 0 0 0])
+  ("readHotelInfo" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("URL" .
+   [2 0 1])
+  ("HotelName" .
+   [0 0 0 1 0 0 0 0 0])
+  ("getClassLoader" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("getResource" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("getPath" .
+   [1 0 0 0 0 0 0])
+  ("reader" .
+   [2 0 0 0 0 0])
+  ("ArrayList" .
+   [0 0 0 1 0 0 0 0 0])
+  ("getParameter" .
+   [1 0 0 0 3 0 0 0 0 0 0 0])
+  ("break" .
+   [1 0 0 1 0])
+  ("queries" .
+   [3 0 1 4 0 0 0])
+  ("net" .
+   [2 0 0])
+  ("sp" .
+   [4 0])
+  ("HashMap" .
+   [0 0 0 0 1 0 0])
+  ("getOutputStream" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("servlet" .
+   [7 0 0 0 0 0 0])
+  ("PrintWriter" .
+   [0 0 2 0 0 2 0 0 0 0 0])
+  ("getWriter" .
+   [2 0 0 0 2 0 0 0 0])
+  ("ServletOutputStream" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("com" .
+   [1 0 0])
+  ("qunar" .
+   [1 0 0 0 0])
+  ("work9" .
+   [0 0 0 0 1])
+  ("phone" .
+   [6 0 0 0 0])
+  ("PreparedStatement" .
+   [0 0 0 3 3 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("ps" .
+   [8 0])
+  ("prepareStatement" .
+   [0 0 1 2 1 1 0 1 0 0 0 0 0 0 0 0])
+  ("setString" .
+   [2 0 0 3 0 1 0 0 0])
+  ("ResultSet" .
+   [0 0 0 2 1 0 2 0 0])
+  ("executeQuery" .
+   [0 0 1 4 1 0 0 0 0 0 0 0])
+  ("flight" .
+   [0 0 0 1 2 2])
+  ("flight_order_id" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 1 1 0])
+  ("getString" .
+   [3 0 0 0 5 0 0 0 0])
+  ("sql2" .
+   [3 0 0 0])
+  ("ps2" .
+   [5 0 0])
+  ("rs2" .
+   [7 0 0])
+  ("m" .
+   [2])
+  ("Object" .
+   [5 0 0 0 0 0])
+  ("arraykeys" .
+   [0 0 0 2 1 0 0 0 0])
+  ("getServletContext" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("getAttribute" .
+   [0 0 0 0 4 0 0 0 0 0 0 0])
+  ("startIdx" .
+   [0 0 0 0 0 2 0 0])
+  ("arr" .
+   [2 0 0])
+  ("Cookie" .
+   [0 0 0 1 0 0])
+  ("false" .
+   [1 0 0 0 0])
+  ("getSession" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("true" .
+   [1 0 0 0])
+  ("setAttribute" .
+   [1 0 0 3 3 0 1 0 0 0 0 0])
+  ("Integer" .
+   [1 0 0 0 1 0 0])
+  ("count" .
+   [3 0 0 0 0])
+  ("valueOf" .
+   [3 0 0 0 0 0 0])
+  ("currentTimeMillis" .
+   [0 0 3 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("duration" .
+   [0 0 0 0 2 0 0 0])
+  ("60" .
+   [3 0])
+  ("removeAttribute" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("long" .
+   [4 0 0 0])
+  ("1000" .
+   [1 0 0 0])
+  ("after" .
+   [1 0 0 0 0])
+  ("after1hour" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("Long" .
+   [1 0 0 0])
+  ("delta" .
+   [0 0 0 1 0])
+  ("HttpSession" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("flight_id" .
+   [0 0 0 0 3 0 0 0 0])
+  ("flight_order" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("phoneset" .
+   [0 0 0 0 0 0 1 0])
+  ("SQLException" .
+   [0 0 0 3 0 0 0 0 0 0 0 0])
+  ("co" .
+   [1 0])
+  ("showResults" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("printStackTrace" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0])
+  ("impl" .
+   [1 0 0 0])
+  ("implements" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("Filter" .
+   [3 0 0 0 0 0])
+  ("FilterChain" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("ServletRequest" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ServletResponse" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ServletConfig" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])))

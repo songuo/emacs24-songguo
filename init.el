@@ -118,6 +118,9 @@
 ;(progn (cd "~/.emacs.d/third-party")
 ;       (normal-top-level-add-subdirs-to-load-path))
 
+;; test for jsp
+(require 'web-mode)
+(add-to-list 'auto-mode-alist '("\\.jsp\\'" . web-mode))
 
 (require 'pager)
 

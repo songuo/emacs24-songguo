@@ -5,7 +5,7 @@
 
 (setq 
  jde-jdk-registry 
-      (quote (("1.6.0_37" . "/usr/local/java/jdk1.6.0_37")))
+      (quote (("1.6.0_45" . "/usr/local/java/jdk1.6.0_45")))
  ecb-primary-secondary-mouse-buttons (quote mouse-1--mouse-2)
 )
 

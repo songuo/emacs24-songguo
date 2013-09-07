@@ -3,6 +3,8 @@
 ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+; install rope ropemacs  pymacs
+
 (load-theme 'songuo-python t)
 
 (setq py-install-directory "~/.emacs.d/third-party/python-mode.el-6.1.1")
