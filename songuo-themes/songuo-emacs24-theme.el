@@ -74,9 +74,9 @@ jarring angry fruit salad look to reduce eye fatigue.")
 (custom-theme-set-faces
  'songuo-emacs24
  '(default ((t (:background "gray15" :foreground "limegreen"))))
- ;; Font lock faces
+;; Font lock faces
  '(font-lock-builtin-face       ((t (:foreground "magenta2"))))
- '(font-lock-constant-face      ((t (:foreground "red" :bold t))))
+ '(font-lock-constant-face      ((t (:foreground "LightSlateBlue" :bold t))))
  '(font-lock-preprocessor-face  ((t (:foreground "CornFlowerBlue" :italic t))))
  '(font-lock-keyword-face       ((t (:foreground "magenta2"))))
  '(font-lock-type-face          ((t (:foreground "mediumspringgreen"))))
@@ -84,7 +84,7 @@ jarring angry fruit salad look to reduce eye fatigue.")
  '(font-lock-regexp-grouping-construct ((t (:bold t :weight bold))))
  '(font-lock-variable-name-face ((t (:foreground "white"))))
  '(font-lock-function-name-face ((t (:foreground "white"
-				     :weight bold :height 1.1))))
+ 				     :weight bold :height 1.1))))
  '(font-lock-string-face        ((t (:foreground "lightcoral"))))
  '(font-lock-comment-face       ((t (:italic t :slant oblique :foreground "chocolate1"))))
  '(font-lock-comment-delimiter-face ((t (:foreground "Salmon"))))
@@ -92,8 +92,8 @@ jarring angry fruit salad look to reduce eye fatigue.")
  '(font-lock-doc-string-face    ((t (:foreground "Plum"))))
  '(font-lock-warning-face ((t (:bold t :foreground "Pink" :weight bold))))
 
- '(cperl-array-face ((t (:foreground "LawnGreen" :background "B;ack" :bold t))))
- '(cperl-hash-face ((t (:foreground "SpringGreen" :background "B;ack" :bold t :italic t))))
+ '(cperl-array-face ((t (:foreground "LawnGreen" :background "Black" :bold t))))
+ '(cperl-hash-face ((t (:foreground "SpringGreen" :background "Black" :bold t :italic t))))
  '(cperl-nonoverridable-face ((t (:foreground "chartreuse3"))))
 
  '(gnus-button ((t (:bold t :weight bold :background "#191932" :box (:line-width 2 :style released-button)))))

@@ -118,6 +118,14 @@
 ;(progn (cd "~/.emacs.d/third-party")
 ;       (normal-top-level-add-subdirs-to-load-path))
 
+
+;; For markdown
+(autoload 'markdown-mode "markdown-mode"
+  "Major mode for editing Markdown files" t)
+(add-to-list 'auto-mode-alist '("\\.text\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . markdown-mode))
+
 ;; test for jsp
 (require 'web-mode)
 (add-to-list 'auto-mode-alist '("\\.jsp\\'" . web-mode))
@@ -125,8 +133,8 @@
 (require 'pager)
 
 (load-library "songuo-auto-complete")
-(load-library "songuo-java")
-(load-library "songuo-groovy")
+;;(load-library "songuo-java")
+;;(load-library "songuo-groovy")
 (load-library "songuo-python")
 (load-library "songuo-html")
 (load-library "songuo-yasnippet")
