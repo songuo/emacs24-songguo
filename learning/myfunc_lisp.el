@@ -106,4 +106,3 @@ jde-abbrev-mode
 
 (add-hook 'jde-mode-hook 'my-jde-mode-hook)
 
-
